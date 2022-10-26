@@ -26,7 +26,7 @@
 
 ![finalone (6)](https://user-images.githubusercontent.com/58173938/197675549-c398e6d3-3608-4d19-a84e-ff4c9aedca8f.png)
 
-Krishnamohan is an Open-Source Contributor [@Kubernetes.io](https://github.com/kubernetes/website), He finds passion in [Teaching](https://twitter.com/K_Mohan_/status/1546827672818311169?s=20&t=t18P79SamlfnQ5-Q62eO5Q) and helping people to get into tech, He was deeply perfervid about Kubernetes, Distributed applications, Attentive to build Projects that centers in the space of [Cloud-Native](https://github.com/Krishnamohan-Yerrabilli?tab=repositories), Currently working towards automation on designing efficient [CI/CD Pipelines](https://github.com/Krishnamohan-Yerrabilli/Deployment-on-K8s-cluster-using-jenkins-CI-CD), He loves to attend Events and Creates Content primarily focused on [DevOps](https://krishnamohanse.hashnode.dev/), He Believes in lifelong learning.
+Krishnamohan is an Open-Source Contributor [@Kubernetes.io](https://github.com/kubernetes/website), He finds passion in Teaching and helping people to get into tech, He was deeply perfervid about Kubernetes, Distributed applications, Attentive to build Projects that centers in the space of [Cloud-Native](https://github.com/Krishnamohan-Yerrabilli?tab=repositories), Currently working towards automation on designing efficient [CI/CD Pipelines](https://github.com/Krishnamohan-Yerrabilli/Deployment-on-K8s-cluster-using-jenkins-CI-CD), He loves to attend Events and Creates Content primarily focused on [DevOps](https://krishnamohanse.hashnode.dev/), He Believes in lifelong learning.
 
 <p></p>
 
