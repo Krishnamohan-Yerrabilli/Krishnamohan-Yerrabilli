@@ -14,7 +14,7 @@
   <img align="left" width="26px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" />
 </a>
 
-<a href="www.reddit.com/user/Mohanse7">
+<a href="https://www.reddit.com/user/Mohanse7">
   <img align="left" width="26px" src="https://user-images.githubusercontent.com/58173938/197679787-cbe1cc63-9a95-4a89-aae5-4317b421d4c6.svg?auto=compress" />
 </a>
 
