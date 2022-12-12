@@ -26,7 +26,7 @@
 
 ![finalone (6)](https://user-images.githubusercontent.com/58173938/197675549-c398e6d3-3608-4d19-a84e-ff4c9aedca8f.png)
 
-Krishnamohan is an Open-Source Contributor [@Kubernetes.io](https://github.com/kubernetes/website), He finds passion in Teaching and helping people to get into tech, He was deeply perfervid about Kubernetes, Distributed applications, Attentive to build Projects that centers in the space of [Cloud-Native](https://github.com/Krishnamohan-Yerrabilli?tab=repositories), Currently working towards automation on designing efficient [CI/CD Pipelines](https://github.com/Krishnamohan-Yerrabilli/Deployment-on-K8s-cluster-using-jenkins-CI-CD), He loves to attend Events and Creates Content primarily focused on [DevOps](https://krishnamohanse.hashnode.dev/), He Believes in lifelong learning.
+Krishnamohan is an Open-Source Contributor [@Kubernetes.io](https://github.com/kubernetes/website), He finds passion in Teaching and helping people to get into tech, He was deeply perfervid about Kubernetes, Distributed applications, Attentive to build Projects that center in the space of [Cloud-Native](https://github.com/Krishnamohan-Yerrabilli?tab=repositories), Currently working towards automation on designing efficient [CI/CD Pipelines](https://github.com/Krishnamohan-Yerrabilli/Deploying_Java_Responsive_Website_on_Kubernetes_Cluster_Using_Jenkins_CI-CD_Pipeline), He loves to attend Events and Creates Content primarily focused on [DevOps](https://krishnamohanse.hashnode.dev/), He Believes in lifelong learning.
 
 <p></p>
 
@@ -52,7 +52,12 @@ Krishnamohan is an Open-Source Contributor [@Kubernetes.io](https://github.com/k
   </tr>
 </table>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Krishnamohan-Yerrabilli&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
+<!--- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Krishnamohan-Yerrabilli&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true) 
++/ -->
+
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=krishnamohan-yerrabilli&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)
+
 
 ## Tech Stack I'm familiar with 👨‍💻
 
