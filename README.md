@@ -56,7 +56,7 @@ Krishnamohan is an Open-Source Contributor [@Kubernetes.io](https://github.com/k
 +/ -->
 
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=krishnamohan-yerrabilli&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=krishnamohan-yerrabilli&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 
 
 ## Tech Stack I'm familiar with 👨‍💻
