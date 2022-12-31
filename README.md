@@ -1,28 +1,32 @@
 ## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm [Krishnamohan!](https://bio.link/krishnamse) 
 
+<div align="left">
+  
 <a href="https://www.linkedin.com/in/krishnamohanyerrabilli/">
-  <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
-</a>
+  <img width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+</a> &nbsp;&nbsp;&nbsp;&nbsp;
+  
 <a href="https://twitter.com/K_Mohan_">
-  <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
-</a>
+  <img width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
+</a> &nbsp;&nbsp;&nbsp;&nbsp;
+  
 <a href="mailto:mailtomohan.in@gmail.com">
-  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
-</a>
+  <img width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
+</a> &nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://krishnamohanse.hashnode.dev/">
-  <img align="left" width="26px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" />
-</a>
+  <img width="26px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" />
+</a> &nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.reddit.com/user/Mohanse7">
-  <img align="left" width="26px" src="https://user-images.githubusercontent.com/58173938/197679787-cbe1cc63-9a95-4a89-aae5-4317b421d4c6.svg?auto=compress" />
-</a>
+  <img width="26px" src="https://user-images.githubusercontent.com/58173938/197679787-cbe1cc63-9a95-4a89-aae5-4317b421d4c6.svg?auto=compress" />
+</a> &nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/krishnamohan_yerrabilli/">
-  <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
-</a>
-<br>
-<br />
+  <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
+</a> &nbsp;&nbsp;&nbsp;&nbsp;
+  
+</div>
 
 ![finalone (6)](https://user-images.githubusercontent.com/58173938/197675549-c398e6d3-3608-4d19-a84e-ff4c9aedca8f.png)
 
