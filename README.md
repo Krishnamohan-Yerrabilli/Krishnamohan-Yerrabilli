@@ -25,12 +25,13 @@
 <a href="https://www.instagram.com/krishnamohan_yerrabilli/">
   <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
 </a> &nbsp;&nbsp;&nbsp;&nbsp;
-  
 </div>
+
+<br>
 
 ![finalone (6)](https://user-images.githubusercontent.com/58173938/197675549-c398e6d3-3608-4d19-a84e-ff4c9aedca8f.png)
 
-Krishnamohan is an Open-Source Contributor [@Kubernetes.io](https://github.com/kubernetes/website), He finds passion in Teaching and helping people to get into tech, He was deeply perfervid about Kubernetes, Distributed applications, Attentive to build Projects that center in the space of [Cloud-Native](https://github.com/Krishnamohan-Yerrabilli?tab=repositories), Currently working towards automation on designing efficient [CI/CD Pipelines](https://github.com/Krishnamohan-Yerrabilli/Deploying_Java_Responsive_Website_on_Kubernetes_Cluster_Using_Jenkins_CI-CD_Pipeline), He loves to attend Events and Creates Content primarily focused on [DevOps](https://krishnamohanse.hashnode.dev/), He Believes in lifelong learning.
+Krishnamohan is a dedicated open-source [contributor](https://github.com/kubernetes/website) with a passion for [teaching](https://www.linkedin.com/posts/kunal-kushwaha_this-is-too-wholesome-made-my-week-thank-activity-6952826447384166401-JUGq?utm_source=share&utm_medium=member_desktop) and helping others to get started in the tech industry. He has contributed to a variety of [open-source](https://github.com/Krishnamohan-Yerrabilli?tab=overview&from=2022-12-01&to=2022-12-31) projects, focusing on the development and maintenance of distributed applications and [cloud-native](https://github.com/Krishnamohan-Yerrabilli?tab=repositories) technologies. In addition to his work as a contributor, Krishnamohan is currently working on automating the design of efficient [CI/CD pipelines](https://github.com/Krishnamohan-Yerrabilli/Deploying_Java_Responsive_Website_on_Kubernetes_Cluster_Using_Jenkins_CI-CD_Pipeline). He is also an active member of the [DevOps community](https://lace-twig-ae8.notion.site/DevOps-Community-Resources-12b7074796f44bfa848f1ca17c3cbced), frequently attending events and creating content related to the [DevOps](https://krishnamohanse.hashnode.dev/). Krishnamohan believes in the importance of lifelong learning and is always looking for new opportunities to learn and grow as a professional.
 
 <p></p>
 
