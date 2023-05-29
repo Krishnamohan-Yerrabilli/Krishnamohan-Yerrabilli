@@ -61,7 +61,7 @@ Krishnamohan is a dedicated Open-Source [Contributor](https://github.com/kuberne
 +/ -->
 
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=krishnamohan-yerrabilli&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
+![krishna mohan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=krishnamohan-yerrabilli&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 
 
 ## Tech Stack I'm familiar with 👨‍💻
