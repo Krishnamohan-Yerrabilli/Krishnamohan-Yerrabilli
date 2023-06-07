@@ -45,10 +45,10 @@ Krishnamohan is a dedicated Open-Source [Contributor](https://github.com/kuberne
 
 <table>
   <tr>
-    <td>
-       <a href="https://github.com/krishnamohan-yerrabilli"><img alt="krishnamohan-yerrabilli Stats" src="https://github-readme-stats.vercel.app/api?username=krishnamohan-yerrabilli&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
-    </td>
-    <td>
+   <!--- <td>
+        <a href="https://github.com/krishnamohan-yerrabilli"><img alt="krishnamohan-yerrabilli Stats" src="https://github-readme-stats.vercel.app/api?username=krishnamohan-yerrabilli&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
+    </td> -->
+    <td> 
        <a href="http://www.github.com/krishnamohan-yerrabilli"><img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnamohan-yerrabilli&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
     </td>
     <td>
@@ -60,8 +60,8 @@ Krishnamohan is a dedicated Open-Source [Contributor](https://github.com/kuberne
 <!--- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Krishnamohan-Yerrabilli&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true) 
 +/ -->
 
-
-![krishna mohan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=krishnamohan-yerrabilli&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
+<!---
+![krishna mohan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=krishnamohan-yerrabilli&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true) -->
 
 
 ## Tech Stack I'm familiar with 👨‍💻
