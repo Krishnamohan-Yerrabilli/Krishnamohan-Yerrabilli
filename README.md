@@ -1,4 +1,4 @@
-## Hey, I'm [Krishnamohan!](https://bio.link/krishnamse) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
+## Hey, I'm [Krishnamohan!](https://bio.link/krishnamse) 
 
 <div align="left">
   
