@@ -1,5 +1,7 @@
 ## Hey, I'm [Krishnamohan!](https://bio.link/krishnamse) 
 
+
+
 <div align="left">
   
 <a href="https://www.linkedin.com/in/krishnamohanyerrabilli/">
@@ -31,7 +33,7 @@
 
 ![finalone (6)](https://user-images.githubusercontent.com/58173938/197675549-c398e6d3-3608-4d19-a84e-ff4c9aedca8f.png)
 
-Krishnamohan is a dedicated Open-Source [Contributor](https://github.com/kubernetes/website) with a passion for [teaching](https://www.linkedin.com/posts/kunal-kushwaha_this-is-too-wholesome-made-my-week-thank-activity-6952826447384166401-JUGq?utm_source=share&utm_medium=member_desktop) and helping others to get started in the tech industry. He has contributed to a variety of [Open-Source](https://github.com/Krishnamohan-Yerrabilli?tab=overview&from=2022-12-01&to=2022-12-31) projects, focusing on the development and maintenance of distributed applications and [Cloud-Native](https://github.com/Krishnamohan-Yerrabilli?tab=repositories) technologies. In addition to his work as a contributor, He is currently working on automating the design of efficient [CI/CD pipelines](https://github.com/Krishnamohan-Yerrabilli/Deploying_Java_Responsive_Website_on_Kubernetes_Cluster_Using_Jenkins_CI-CD_Pipeline). He is also an active member of the [DevOps community](https://lace-twig-ae8.notion.site/DevOps-Community-Resources-12b7074796f44bfa848f1ca17c3cbced), frequently attending events and creating content related to the [DevOps](https://krishnamohanse.hashnode.dev/). He believe in lifelong learning.
+I'm an Open-Source [Contributor](https://github.com/kubernetes/website) with a passion for [teaching](https://www.linkedin.com/posts/kunal-kushwaha_this-is-too-wholesome-made-my-week-thank-activity-6952826447384166401-JUGq?utm_source=share&utm_medium=member_desktop) and helping others to get started in the tech industry. I have contributed to a variety of [Open-Source](https://github.com/Krishnamohan-Yerrabilli?tab=overview&from=2022-12-01&to=2022-12-31) projects, focusing on the development and maintenance of distributed applications and [Cloud-Native](https://github.com/Krishnamohan-Yerrabilli?tab=repositories) technologies. In addition to my work as a contributor, I am currently working on automating the design of efficient [CI/CD pipelines](https://github.com/Krishnamohan-Yerrabilli/Deploying_Java_Responsive_Website_on_Kubernetes_Cluster_Using_Jenkins_CI-CD_Pipeline). I am also an active member of the [DevOps community](https://lace-twig-ae8.notion.site/DevOps-Community-Resources-12b7074796f44bfa848f1ca17c3cbced), frequently attending events and creating content related to [DevOps](https://krishnamohanse.hashnode.dev/). My goal is to grow as a DevOps Engineer and work on exciting projects that make an impact.
 
 <p></p>
 
